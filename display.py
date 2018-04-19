@@ -6,7 +6,7 @@ import tensorflow
 
 import cv2
 
-img = cv2.imread('leo2.png')
+img = cv2.imread('leo.png')
 plt.imshow(img)
 
 
